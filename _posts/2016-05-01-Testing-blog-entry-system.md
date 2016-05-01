@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Treading in Complexity, Test Post"
+title: "Test Post"
 date: 2016-05-01
 ---
 

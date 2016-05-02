@@ -1,7 +1,4 @@
-.namedBody {
-    background-image: url(../images/background1.jpg) no-repeat center center; 
-    background-size: cover;
-}
+#element {background-image: url(../images/background1.jpg); }
 
 body {
     margin: 60px auto;

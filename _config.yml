@@ -2,4 +2,4 @@ name: Treading in Complexity
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 encoding: utf-8
-background: background1.jpg
+background: /images/background1.jpg

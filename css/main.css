@@ -3,6 +3,7 @@ body {
     width: 70%;
     background: white;
     background-image: url('{{ site.baseurl }}/images/background-poster.png');
+    background-size: cover;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

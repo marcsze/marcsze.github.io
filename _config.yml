@@ -1,5 +1,5 @@
 name: Treading in Complexity
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-highlighter: pygments
 encoding: utf-8
+background: background1.jpg

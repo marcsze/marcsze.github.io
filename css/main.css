@@ -1,6 +1,8 @@
-header {
-    background-image: url('{{ site.baseurl }}/images/background1.jpg');
+.namedBody {
+    background-image: url('{{ site.baseurl }}/images/background1.jpg') no-repeat center center; 
+    background-size: cover;
 }
+
 body {
     margin: 60px auto;
     width: 70%;

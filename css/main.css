@@ -3,6 +3,7 @@ body {
     width: 70%;
     background: white;
     background-image: url('{{ site.baseurl }}/images/background-poster.png');
+    background-repeat: no-repeat;
     background-size: cover;
 }
 nav ul, footer ul {

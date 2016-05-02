@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: white; 
+    background: gray; 
     background-image: url (background-poster.png);
 }
 nav ul, footer ul {

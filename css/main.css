@@ -10,8 +10,8 @@ body {
     background-size: cover;
 }
 
-title {
-    color: #999 !important;
+head {
+    color: #999;
 }
 
 nav ul, footer ul {

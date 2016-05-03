@@ -30,12 +30,12 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: rgb(255,255,255);
+    color: rgb(240,240,240);
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: rgb(240,240,240);
+    color: rgb(232,232,232);
 }
 footer {
     border-top: 1px solid #d5d5d5;

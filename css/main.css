@@ -37,6 +37,11 @@ p {
     line-height: 1.4em;
     color: rgb(232,232,232);
 }
+
+span {
+    color: rgb(208,208,208); 
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;

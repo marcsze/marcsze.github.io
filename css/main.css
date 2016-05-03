@@ -10,7 +10,7 @@ body {
     background-size: cover;
 }
 
-a[title] {
+title {
     color: #999;
 }
 

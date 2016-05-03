@@ -4,13 +4,13 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: white;
+    background: black;
     background-image: url('{{ site.baseurl }}/images/background-poster.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-title {
+a[title] {
     color: #FFFFFF;
 }
 

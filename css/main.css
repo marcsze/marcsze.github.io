@@ -26,6 +26,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: rgb(240,240,240);
 }
 h1 {
     font-size: 3em;
@@ -55,3 +56,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.social {
+padding-left: 10px;
+}
+
+

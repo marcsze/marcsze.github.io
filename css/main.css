@@ -63,10 +63,13 @@ padding-left: 10px;
 }
 
 .siteLink{
-    img:hover {
-        opacity: 0.5;
+    opacity: 1;
     }
-}
+    
+    .siteLink:hover {
+        opacity: 0.5;
+        }
+
 
 
 

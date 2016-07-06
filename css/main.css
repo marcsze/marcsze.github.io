@@ -70,6 +70,16 @@ padding-left: 10px;
         opacity: 0.5;
         }
 
+.linkcontent {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: rgb(208,208,208);
+    opacity: 0;
+    top:0;
+    left:0;
+    position: absolute;
+}
 
-
+.linkthumbnail{
+    position:relative;
+}
 

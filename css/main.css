@@ -86,8 +86,23 @@ padding-left: 10px;
 }
 
 
+#full_image {
+	margin:0;
+	padding:0;
+	list-style:none;
+	white-space: nowrap;
+	overflow:hidden;
+	position:absolute;
+}
 
+#full_image li {
+	display: inline;
+}
 
+#full_image lit img{
+	margin:0 auto;
+	max-width:100%;
+}
 
 
 

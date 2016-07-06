@@ -64,7 +64,8 @@ padding-left: 10px;
 
 
 .imagebutton {
-
+	margin: 50px 0;
+	
 	.linkcontent {
 		background: none;
 		color: rgb(232,232,232);

@@ -77,6 +77,10 @@ padding-left: 10px;
 	opacity: 0.5;
 }
 
+.linkcontent h1:hover {
+	opacity: 1;
+}
+
 .linkthumbnail {
 	position:relative;
 	display: inline-block;

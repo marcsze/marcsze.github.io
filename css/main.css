@@ -65,14 +65,6 @@ padding-left: 10px;
 
 .imagebutton {
 
-    .sitelink {
-	opacity: 1;
-    	}
-    
-    .siteLink:hover {
-        opacity: 0.5;
-        }	
-
      .linkcontent {
 	background: none;
 	color: rgb(232,232,232);
@@ -83,8 +75,18 @@ padding-left: 10px;
 	transform: translate(-50%, -50%);
 	}
 
-     .linkthumbnail{
+     .linkthumbnail {
 	position:relative;
+
+	    .sitelink {
+		opacity: 1;
+    		}
+    
+	    .siteLink:hover {
+        	opacity: 0.5;
+        	}	
+
+
 	}
 
 	

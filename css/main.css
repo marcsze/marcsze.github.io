@@ -62,15 +62,17 @@ ul.posts li {
 padding-left: 10px;
 }
 
-.siteLink{
-    opacity: 1;
-    }
+
+.imagebutton{
+    .siteLink{
+	opacity: 1;
+    	}
     
     .siteLink:hover {
         opacity: 0.5;
-        }
+        }	
 
-.linkcontent {
+     .linkcontent {
 	background: none;
 	color: rgb(232,232,232);
 	text-align: center;
@@ -78,10 +80,20 @@ padding-left: 10px;
 	top: 50%;
 	left: 15%;
 	transform: translate(-50%, -50%);
+	}
+
+     .linkthumbnail{
+	position:relative;
+	}
+
+	
 }
 
-.linkthumbnail{
-	position:relative;
-}
+    
+
+
+
+
+
 	
 

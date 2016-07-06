@@ -65,34 +65,38 @@ padding-left: 10px;
 
 .imagebutton {
 
-     .linkcontent {
-	background: none;
-	color: rgb(232,232,232);
-	text-align: center;
-	position: absolute;
-	top: 50%;
-	left: 15%;
-	transform: translate(-50%, -50%);
+	.linkcontent {
+		background: none;
+		color: rgb(232,232,232);
+		text-align: center;
+		position: absolute;
+		top: 50%;
+		left: 15%;
+		transform: translate(-50%, -50%);
 	}
 
-     .linkthumbnail {
-	position:relative;
+	.linkthumbnail {
+		position:relative;
+	}
 
-	    .sitelink {
+	.sitelink {
 		opacity: 1;
-    		}
-    
-	    .siteLink:hover {
-        	opacity: 0.5;
-        	}	
-
-
+    	}
+    	
+    	a:hover {
+       		.siteLink {
+       			opacity: 0.5;
+        	}
+        
+        	.linkcontent {
+        		color: rgb(240,240,240)
+        	}
 	}
-
-	
 }
 
-    
+
+
+
 
 
 

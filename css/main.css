@@ -70,17 +70,20 @@ padding-left: 10px;
         opacity: 0.5;
         }
 
-.linkcontent {
-    background: none;
-    color: rgb(232,232,232);
-    text-align: center;
-    position: absolute;
-    top: 50%;
-	left: 15%;
-	transform: translate(-50%, -50%);
-}
+.linkstorage {
+	
+	.linkcontent {
+		background: none;
+    		color: rgb(232,232,232);
+    		text-align: center;
+    		position: absolute;
+    		top: 50%;
+			left: 15%;
+			transform: translate(-50%, -50%);
+	}
 
-.linkthumbnail{
-    position:relative;
+	.linkthumbnail{
+    		position:relative;
+	}
+	
 }
-

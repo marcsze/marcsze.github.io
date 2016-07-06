@@ -62,11 +62,11 @@ ul.posts li {
 padding-left: 10px;
 }
 
-img:hover {
-    opacity: 0.5;
+.siteLink{
+    img:hover {
+        opacity: 0.5;
+    }
 }
-
-
 
 
 

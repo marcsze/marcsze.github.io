@@ -71,7 +71,7 @@ padding-left: 10px;
         }
 
 .linkcontent {
-    background: none repeat scroll 0 0 #FFFFFF;
+    background: none;
     color: rgb(232,232,232);
     opacity: 1;
     top:0;

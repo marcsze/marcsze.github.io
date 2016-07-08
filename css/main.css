@@ -84,24 +84,24 @@ padding-left: 10px;
 
 
 .test {
-.linkcontent h1 {
-	opacity: 0.5;
-}
+	.linkcontent h1 {
+		opacity: 0.5;
+	}
 
-.siteLink {
-	opacity: 0.5;
-}
-
-
-a:hover {
-
-.sitelink {
-	opacity: 1;
-}
+	.siteLink {
+		opacity: 0.5;
+	}
 
 
-.linkcontent {
-	opacity: 1;
-}
-}
+	a:hover {
+
+		.sitelink {
+			opacity: 1;
+		}
+
+
+		.linkcontent {
+			opacity: 1;
+		}
+	}
 }

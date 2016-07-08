@@ -80,15 +80,17 @@ padding-left: 10px;
 }
 
 
+
+.linkcontent h1 {
+	opacity: 0.5;
+}
+
+.siteLink {
+	opacity: 0.5;
+}
+
+
 .test {
-
-	.linkcontent h1 {
-	opacity: 0.5;
-	}
-
-	.siteLink {
-	opacity: 0.5;
-	}
 	
 	a:hover {  
     		.sitelink {
@@ -100,3 +102,4 @@ padding-left: 10px;
 		}	
 	}
 }
+

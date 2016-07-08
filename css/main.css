@@ -28,15 +28,6 @@ a {
 a:hover {
     text-decoration: underline;
     color: rgb(240,240,240);
-    
-    .sitelink {
-	opacity: 1;
-	}
-   
-    .linkcontent h1 {
-	opacity: 1;
-	}
-	
 }
 h1 {
     font-size: 3em;
@@ -89,10 +80,23 @@ padding-left: 10px;
 }
 
 
-.linkcontent h1 {
+.test {
+
+	.linkcontent h1 {
 	opacity: 0.5;
 	}
 
-.siteLink {
+	.siteLink {
 	opacity: 0.5;
 	}
+	
+	a:hover {  
+    		.sitelink {
+			opacity: 1;
+		}
+   
+    		.linkcontent h1 {
+			opacity: 1;
+		}	
+	}
+}

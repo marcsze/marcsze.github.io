@@ -75,18 +75,12 @@ padding-left: 10px;
 	
 
 
-.siteLink {
-	opacity: 0.5;
-}
-
-.siteLink:hover {
-	opacity: 1;
-}
-
-
 .linkthumbnail {
 	position:relative;
 	display: inline-block;
+	opacity: 0.5;
 }
 
-
+.linkthumbnail:hover {
+	opacity: 1;
+}

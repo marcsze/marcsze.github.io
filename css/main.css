@@ -80,28 +80,15 @@ padding-left: 10px;
 .linkthumbnail {
 	position:relative;
 	display: inline-block;
-}
-
-
-.test {
-	.linkcontent h1 {
+	
+	a {
 		opacity: 0.5;
 	}
-
-	.siteLink {
-		opacity: 0.5;
-	}
-
-
+	
 	a:hover {
-
-		.sitelink {
-			opacity: 1;
-		}
-
-
-		.linkcontent {
-			opacity: 1;
-		}
+		opacity: 1;
+		
 	}
 }
+
+

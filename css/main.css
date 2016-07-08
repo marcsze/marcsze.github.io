@@ -90,15 +90,12 @@ padding-left: 10px;
 }
 
 
-.button-row {
-	margin: 10px 0;
-	
-	.sitelink:hover {
-		opacity: 1;
-	}
-	
-	.linkcontent h1:hover {
-		opacity: 1;
-	}
+.sitelink:hover {
+	opacity: 1;
 }
-	
+
+
+.linkcontent h1:hover {
+	opacity: 1;
+}
+

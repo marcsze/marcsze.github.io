@@ -69,7 +69,7 @@ padding-left: 10px;
 	text-align: center;
 	position: absolute;
 	top: 50%;
-	left: 25%;
+	left: 50%;
 	transform: translate(-50%, -50%);
 }
 
@@ -82,7 +82,7 @@ padding-left: 10px;
 
 .test {
 
-	h1 {
+	.linkcontent h1 {
 	opacity: 0.5;
 	}
 
@@ -95,7 +95,7 @@ padding-left: 10px;
 			opacity: 1;
 		}
    
-    		h1 {
+    		.linkcontent h1 {
 			opacity: 1;
 		}	
 	}

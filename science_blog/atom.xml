@@ -14,7 +14,7 @@ layout: feed
 		<email>marcsze@med.umich.edu</email>
 	</author>
 
-	{% for post in site.Sposts %}
+	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="http://marcsze.github.io{{ post.url }}"/>

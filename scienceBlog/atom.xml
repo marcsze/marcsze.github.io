@@ -18,13 +18,15 @@ tag: scienceblog
 	{% for post in site.posts %}
 		{% for tag in post.tags %}
 			{% if tag == page.tag %}
-		<entry>
-			<title>{{ post.title }}</title>
-			<link href="http://marcsze.github.io{{ post.url }}"/>
-			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>http://marcsze.github.io/{{ post.id }}</id>
-			<content type="html">{{ post.content | xml_escape }}</content>
-		</entry>
+				<entry>
+					<title>{{ post.title }}</title>
+					<link href="http://marcsze.github.io{{ post.url }}"/>
+					<updated>{{ post.date | date_to_xmlschema }}</updated>
+					<id>http://marcsze.github.io/{{ post.id }}</id>
+					<content type="html">{{ post.content | xml_escape }}</content>
+				</entry>
+			{% endif %}
+		{% endfor %}
 	{% endfor %}
 
 </feed>

@@ -15,8 +15,8 @@ layout: feed
 	</author>
 
 	{% for post in site.posts %}
-	{% for tag in post.tags %}
-	{% if tag == page.tag %}
+		{% for tag in post.tags %}
+			{% if tag == page.tag %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="http://marcsze.github.io{{ post.url }}"/>

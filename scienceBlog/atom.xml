@@ -6,10 +6,10 @@ tag: scienceblog
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Treading in Complexity</title>
-	<link href="http://marcsze.github.io/science_blog/atom.xml" rel="self"/>
-	<link href="http://marcsze.github.io/science_blog"/>
+	<link href="http://marcsze.github.io/scienceBlog/atom.xml" rel="self"/>
+	<link href="http://marcsze.github.io/scienceBlog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://marcsze.github.io/science_blog</id>
+	<id>http://marcsze.github.io/scienceBlog</id>
 	<author>
 		<name>Marc Sze</name>
 		<email>marcsze@med.umich.edu</email>

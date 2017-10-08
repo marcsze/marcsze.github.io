@@ -5,16 +5,16 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Treading in Complexity</title>
-	<link href="http://marcsze.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://marcsze.github.io/blog"/>
+	<link href="http://marcsze.github.io/science_blog/atom.xml" rel="self"/>
+	<link href="http://marcsze.github.io/science_blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://marcsze.github.io/blog</id>
+	<id>http://marcsze.github.io/science_blog</id>
 	<author>
 		<name>Marc Sze</name>
-		<email>marcszeb@med.umich.edu</email>
+		<email>marcsze@med.umich.edu</email>
 	</author>
 
-	{% for post in site.posts %}
+	{% for post in site.Sposts %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="http://marcsze.github.io{{ post.url }}"/>

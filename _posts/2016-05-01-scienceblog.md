@@ -2,7 +2,7 @@
 layout: post
 title: "Test Post"
 date: 2016-05-01
-tags: [scienceblog]
+tags: [notscienceblog]
 ---
 
 This is a test of how the blog posting system works. 

@@ -34,22 +34,12 @@ I don't know how much time they want for me to spend on the question but hats of
 
 At the moment, my experience with industry job interviews have not been all that positive of an experience. Below are a summary so far of how things have gone:
 
-* Johnson & Johnson Microbiota position
-	* Straight up rejection
-* Merck Bioinformatics Position
-	* Straight up rejection
-		* Not the right fit and International
-* Nestle Microbiota Position (St. Louis)
-	* Straight up rejection
-* Nestle Microbiota Position (Lausanne)
-	* Rejected after 2nd Skype interview
-		* No industry experience
-		* No metagenomics knowledge
-* Thermo-Fisher Bioinformatics Position
-	* Job no longer exists
-* Insight Data Science Fellowship
-	* Accepted
-		* I declined the offer (might have been a mistake)
+* Johnson & Johnson Microbiota position (Straight up rejection)
+* Merck Bioinformatics Position (Straight up rejection - Not the right fit and International)
+* Nestle Microbiota Position, St. Louis (Straight up rejection)
+* Nestle Microbiota Position, Lausanne (Rejected after 2nd Skype interview - No industry experience & metagenomics knowledge)
+* Thermo-Fisher Bioinformatics Position (Job no longer exists)
+* Insight Data Science Fellowship (Accepted - I declined the offer (might have been a mistake))
 
 
 Although the academic interviews can be more gruelling and I haven't been any more successful in that regard either (0/2 on offers after in an person interview). I do enjoy them more due to the networking and interesting conversations that occur throughout the entire process.

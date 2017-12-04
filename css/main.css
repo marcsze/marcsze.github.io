@@ -60,6 +60,12 @@ ul {
    color: rgb(232,232,232);
 }
 
+li {
+   margin: 20px auto 40px; 
+   font-size: 1.5em;
+   color: rgb(232,232,232);
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;

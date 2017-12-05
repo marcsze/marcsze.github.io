@@ -7,7 +7,7 @@ tags: [scienceblog]
 
 I have recently been interviewing for various jobs both in academia and industry. The process is pretty different for the two different sectors. In this blog post I want to focus on my experience with a specific job interview for industry, we shall call them GS. In the essence of transparency I did not get this job that I am about to talk about. I'm still on the fence as to whether this was a good or bad thing.  
 
-It took some time to get through the companies first two interviews. After completing this process the third interview was a question on how I would analyze a specific data set. This seemed pretty straight forward enough and seemed like a reasonable question to ask about. 
+It took some time to get through the company's first two interviews. After completing this process the third interview was a question on how I would analyze a specific data set. This seemed pretty straight forward enough and seemed like a reasonable question to ask about. 
 
 The question that they asked me was the following:
 
@@ -42,7 +42,7 @@ At the moment, my experience with industry job interviews have not been all that
 * Insight Data Science Fellowship (Accepted - I declined the offer (might have been a mistake))
 
 
-Although the academic interviews can be more gruelling and I haven't been any more successful in that regard either (0/2 on offers after in an person interview). I do enjoy them more due to the networking and interesting conversations that occur throughout the entire process.
+Although the academic interviews can be more gruelling and I haven't been any more successful in that regard either (0/2 on offers after an in person interview). I do enjoy them more due to the networking and interesting conversations that occur throughout the entire process.
 
 In the end, I have been repeatedly told it isn't me, it is the "fit". I understand that this is an important intangible but it can definitely lead to the applicant feeling inadequate to some degree. As an example, take the Nestle job, it is impossible for me to get industry experience unless I am hired, so this becomes a little bit of a vicious circle. Additionally, no matter how much I know about the analysis of the [microbiota](https://www.ncbi.nlm.nih.gov/pubmed/?term=Marc+Sze), if I am not on a metagenomics manuscript I somehow am not skilled enough to know how to do it? Just because I'm not on a paper for metagenomics doesn't mean I don't know how to do it or understand it...
 
